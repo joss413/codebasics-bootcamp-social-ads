@@ -26,7 +26,7 @@ Build and compare multiple machine learning models to accurately predict custome
 
 ### 2. Confusion Matrices Comparison
 
-![Confusion Matrices](images/confusion_matrices.png)
+![Confusion Matrices](images/Confusion_Matrices.png)
 
 *Side-by-side comparison of confusion matrices for all three models*
 
