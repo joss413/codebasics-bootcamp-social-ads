@@ -114,6 +114,7 @@ From Random Forest analysis:
 ## 📁 Project Structure
 
 📦 codebasics-bootcamp-social-ads
+
 ┣ 📂 images
 
 ┣ 📜 social-network-ads.ipynb
