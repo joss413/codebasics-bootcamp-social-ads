@@ -114,13 +114,10 @@ From Random Forest analysis:
 ## 📁 Project Structure
 
 📦 codebasics-bootcamp-social-ads
-┣ 📂 images/
-┃ ┣ 📜 model_comparison.png
-┃ ┣ 📜 confusion_matrices.png
-┃ ┣ 📜 decision_boundaries.png
-┃ ┣ 📜 tree_depth_analysis.png
-┃ ┣ 📜 feature_importance.png
-┃ ┗ 📜 roc_curves.png
+┣ 📂 images
+
 ┣ 📜 social-network-ads.ipynb
+
 ┣ 📜 README.md
+
 ┗ 📜 requirements.txt
